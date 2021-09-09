@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40319" started-at="2021-09-08T08:04:10Z" finished-at="2021-09-08T08:04:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40319" started-at="2021-09-08T08:04:10Z" finished-at="2021-09-08T08:04:50Z">
+      <class name="Testscript.com.CreateNewContactTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:Testscript.com.CreateNewContactTest@71bbf57e]" name="launchBrowser" is-config="true" duration-ms="6128" started-at="2021-09-08T08:04:10Z" finished-at="2021-09-08T08:04:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Testscript.com.CreateNewContactTest@71bbf57e]" name="login" is-config="true" duration-ms="8219" started-at="2021-09-08T08:04:16Z" finished-at="2021-09-08T08:04:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createNewcantacts()[pri:0, instance:Testscript.com.CreateNewContactTest@71bbf57e]" name="createNewcantacts" duration-ms="25531" started-at="2021-09-08T08:04:24Z" finished-at="2021-09-08T08:04:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewcantacts -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:Testscript.com.CreateNewContactTest@71bbf57e]" name="logout" is-config="true" duration-ms="175" started-at="2021-09-08T08:04:50Z" finished-at="2021-09-08T08:04:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Testscript.com.CreateNewContactTest@71bbf57e]" name="closeBrowser" is-config="true" duration-ms="199" started-at="2021-09-08T08:04:50Z" finished-at="2021-09-08T08:04:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Testscript.com.CreateNewContactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
